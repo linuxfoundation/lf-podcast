@@ -11,11 +11,13 @@ const copyrightOwner = 'The Linux Foundation'
 module.exports = { 
   title: `${projectName}`,
   tagline: `${projectName}`,
-  url: 'https://finos.org',
+  url: 'https://linuxfoundation.github.io/lf-podcast',
   baseUrl: '/',
   favicon: 'img/favicon/cropped-favicon-80x80.png',
-  projectName: `${projectName}`,
-  organizationName: `${copyrightOwner}`,
+  projectName: 'lf-podcast',
+  organizationName: 'linuxfoundation',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   customFields: {
     repoUrl: `https://github.com/finos/${projectSlug}`,
     ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',

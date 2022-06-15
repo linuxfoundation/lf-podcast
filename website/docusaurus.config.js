@@ -8,18 +8,20 @@ const projectSlug = 'linux-foundation-podcast-project'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'The Linux Foundation'
 
-module.exports = {
+module.exports = { 
   title: `${projectName}`,
   tagline: `${projectName}`,
-  url: 'https://finos.org',
+  url: 'https://linuxfoundation.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon/cropped-favicon-80x80.png',
-  projectName: `${projectName}`,
-  organizationName: `${copyrightOwner}`,
+  projectName: 'lf-podcast',
+  organizationName: 'linuxfoundation',
+  trailingSlash: false,
   customFields: {
-    repoUrl: `https://github.com/finos/${projectSlug}`,
+    deploymentBranch: 'gh-pages',
+    repoUrl: `https://github.com/linuxfoundation/lf-podcast`,
     ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',
-    ctaUrl: 'https://github.com/mcleo-d/lf-podcast',
+    ctaUrl: 'https://github.com/linuxfoundation/lf-podcast',
     ctaHeader: 'Become part of the joined up Linux Foundation podcast network'
   },
   scripts: ['https://buttons.github.io/buttons.js'],

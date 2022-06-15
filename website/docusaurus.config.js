@@ -11,17 +11,17 @@ const copyrightOwner = 'The Linux Foundation'
 module.exports = { 
   title: `${projectName}`,
   tagline: `${projectName}`,
-  url: 'https://linuxfoundation.github.io/lf-podcast',
+  url: 'https://linuxfoundation.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon/cropped-favicon-80x80.png',
   projectName: 'lf-podcast',
   organizationName: 'linuxfoundation',
-  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   customFields: {
-    repoUrl: `https://github.com/finos/${projectSlug}`,
+    deploymentBranch: 'gh-pages',
+    repoUrl: `https://github.com/linuxfoundation/lf-podcast`,
     ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',
-    ctaUrl: 'https://github.com/mcleo-d/lf-podcast',
+    ctaUrl: 'https://github.com/linuxfoundation/lf-podcast',
     ctaHeader: 'Become part of the joined up Linux Foundation podcast network'
   },
   scripts: ['https://buttons.github.io/buttons.js'],

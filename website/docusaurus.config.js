@@ -12,7 +12,7 @@ module.exports = {
   title: `${projectName}`,
   tagline: `${projectName}`,
   url: 'https://linuxfoundation.github.io/',
-  baseUrl: '/',
+  baseUrl: '/lf-podcast/',
   favicon: 'img/favicon/cropped-favicon-80x80.png',
   projectName: 'lf-podcast',
   organizationName: 'linuxfoundation',

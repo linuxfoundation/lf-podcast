@@ -12,8 +12,8 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 Listen to the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://untold-stories-of-open-source.captivate.fm/spotify) podcast below.
 
-| Episode                                                                                                      | Play Podcast                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Episode                                                                                                      |                                                        Play Podcast                                                         |
+| ------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: |
 | [Patrick Debois on the Business of Open Source](docs/podcasts/business-of-open-source.mdx)                   | <a href="https://open.spotify.com/episode/3MKsXkw9Et5B9bGLWKJNpc"><img src="docs/images/podcast-mic.png" height="30" /></a> |
 | [Brian Behlendorf and the OpenSSF Project](docs/podcasts/openssf-project.mdx)                                | <a href="https://open.spotify.com/episode/0P0cjBDn5nSYPe1i0FrFXr"><img src="docs/images/podcast-mic.png" height="30" /></a> |
 | [Priyanka Sharma, GM, CNCF](docs/podcasts/priyanka-sharma-gm-cncf.mdx)                                       | <a href="https://open.spotify.com/episode/5KgqNXHHV0y03yjgg7kg8E"><img src="docs/images/podcast-mic.png" height="30" /></a> |

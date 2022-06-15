@@ -8,7 +8,7 @@ const projectSlug = 'linux-foundation-podcast-project'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'The Linux Foundation'
 
-module.exports = { 
+module.exports = {  
   title: `${projectName}`,
   tagline: `${projectName}`,
   url: 'https://linuxfoundation.github.io/',

@@ -11,7 +11,7 @@ const copyrightOwner = 'The Linux Foundation'
 module.exports = {  
   title: `${projectName}`,
   tagline: `${projectName}`,
-  url: 'https://linuxfoundation.github.io/',
+  url: 'https://podcast.linuxfoundation.org/',
   baseUrl: '/',
   favicon: 'img/favicon/cropped-favicon-80x80.png',
   projectName: 'lf-podcast',

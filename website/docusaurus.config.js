@@ -22,7 +22,7 @@ module.exports = {
     repoUrl: `https://github.com/linuxfoundation/lf-podcast`,
     ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',
     ctaUrl: 'https://github.com/linuxfoundation/lf-podcast',
-    ctaHeader: 'Become part of the joined up Linux Foundation podcast network'
+    ctaHeader: 'The Linux Foundation Podcast Series'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],

@@ -22,11 +22,11 @@ Listen to the latest episodes from The Linux Foundation ["The Untold Stories of 
 
 ## Listen in your Browser
 
-Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite.
+Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms. 
 
 ## What the project does
 
-The Linux Foundation Podcast Project is a public podcast, highlight projects and people using open source. In addition, the podcast will regularly feature updates on project from project leads and contributors
+The Linux Foundation Podcast Project is a public podcast. Each week, the podcast features projects and people using open source.
 
 ## Why the project is useful
 
@@ -34,11 +34,11 @@ The podcast is used to inform the Linux and Open Source communities as to the cu
 
 ## How users can get started with the project
 
-The easiest way to keep track of the project is through subscription to the podcast series (TBD). You will be notified of new podcasts, which will be distributed on all major podcast networks
+The easiest way to keep track of the project is through subscription to the podcast series on your favorite podcast platform. You will be notified of new podcasts, which will be distributed on all major podcast platforms.
 
 ## Where users can get help with your project
 
-Questions and comments are welcome, especially suggestions for upcoming shows.
+Questions and comments are welcome, especially suggestions for upcoming shows. Add a pull request to the show's GitHub project.
 
 ## Who maintains and contributes to the project
 

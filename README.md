@@ -21,7 +21,7 @@ Listen to the latest episodes from The Linux Foundation ["The Untold Stories of 
 
 ## Listen in your Browser
 
-Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://fanciful-salmiakki-90bec2.netlify.app/) microsite.
+Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite.
 
 ## What the project does
 

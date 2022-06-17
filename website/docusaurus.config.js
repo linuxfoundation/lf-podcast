@@ -41,7 +41,7 @@ module.exports = {
         {to: 'docs/podcasts/business-of-open-source', label: 'Podcasts', position: 'right'},
         {to: 'docs/templates/podcast-template', label: 'Add New Podcast', position: 'right'},
         {
-          href: 'https://github.com/mcleo-d/lf-podcast',
+          href: 'https://github.com/linuxfoundation/lf-podcast',
           label: 'GitHub',
           position: 'right',
         }

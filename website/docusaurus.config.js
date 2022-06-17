@@ -112,7 +112,7 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/linuxfoundation/lf-podcast/edit/master/website/',
+            'https://github.com/linuxfoundation/lf-podcast/edit/main/website/',
           sidebarPath: require.resolve('./sidebars.js')
         },
         theme: {

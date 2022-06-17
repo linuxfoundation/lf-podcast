@@ -18,16 +18,6 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className={classnames('hero--subtitle')}>{siteConfig.customFields.ctaHeader}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={classnames(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted
-              )}
-              to={siteConfig.customFields.ctaUrl}>
-              {siteConfig.customFields.ctaButton}
-            </Link>
-          </div>
         </div>
       </header>
       <main>

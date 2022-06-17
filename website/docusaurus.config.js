@@ -38,7 +38,7 @@ module.exports = {
       },
       items: [
         {to: 'docs/podcasts-intro', label: 'Introduction', position: 'right'},
-        {to: 'docs/podcasts/business-of-open-source', label: 'Podcasts', position: 'right'},
+        {to: 'docs/podcasts/new-model-training', label: 'Podcasts', position: 'right'},
         {to: 'docs/templates/podcast-template', label: 'Add New Podcast', position: 'right'},
         {
           href: 'https://github.com/linuxfoundation/lf-podcast',

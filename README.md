@@ -12,13 +12,13 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 Listen to the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://untold-stories-of-open-source.captivate.fm/spotify) podcast below.
 
-| Episode                                                                                                      |                                                                Play Podcast                                                                 |
-| ------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [A New Model for Technical Training, with Clyde Seepersad](docs/podcasts/new-model-training.mdx)             | <a href="https://open.spotify.com/episode/2HCRrlO0zW2xEcfnZ5i0fG" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
-| [Patrick Debois on the Business of Open Source](docs/podcasts/business-of-open-source.mdx)                   | <a href="https://open.spotify.com/episode/3MKsXkw9Et5B9bGLWKJNpc" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
-| [Brian Behlendorf and the OpenSSF Project](docs/podcasts/openssf-project.mdx)                                | <a href="https://open.spotify.com/episode/0P0cjBDn5nSYPe1i0FrFXr" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
-| [Priyanka Sharma, GM, CNCF](docs/podcasts/priyanka-sharma-gm-cncf.mdx)                                       | <a href="https://open.spotify.com/episode/5KgqNXHHV0y03yjgg7kg8E" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
-| [An Introduction to the new Podcast from the Linux Foundation](docs/podcasts/introduction-to-lf-podcast.mdx) | <a href="https://open.spotify.com/episode/62DAkdeQTSAPeLbxF2sTlX" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
+| Episode                                                                                                                                          |                                                                Play Podcast                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| [A New Model for Technical Training, with Clyde Seepersad](docs/podcasts/new-model-training.mdx)                                                 | <a href="https://open.spotify.com/episode/2HCRrlO0zW2xEcfnZ5i0fG" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
+| [The Business Side of Open Source, with Patrick Debois](docs/podcasts/business-of-open-source.mdx)                                               | <a href="https://open.spotify.com/episode/3MKsXkw9Et5B9bGLWKJNpc" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
+| [A Life in Open Source, with Brian Behlendorf](docs/podcasts/openssf-project.mdx)                                                                | <a href="https://open.spotify.com/episode/0P0cjBDn5nSYPe1i0FrFXr" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
+| [Balancing Priorities at the CNCF, with Priyanka Sharma](docs/podcasts/priyanka-sharma-gm-cncf.mdx)                                              | <a href="https://open.spotify.com/episode/5KgqNXHHV0y03yjgg7kg8E" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
+| [The Untold Stories of Open Source - An Introduction to the new Podcast from the Linux Foundation](docs/podcasts/introduction-to-lf-podcast.mdx) | <a href="https://open.spotify.com/episode/62DAkdeQTSAPeLbxF2sTlX" target="_blank"><img src="docs/images/podcast-mic.png" height="30" /></a> |
 
 ## Listen in your Browser
 

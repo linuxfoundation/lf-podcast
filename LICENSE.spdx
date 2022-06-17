@@ -1,0 +1,7 @@
+SPDXVersion: SPDX-2.0
+DataLicense: CC0-1.0
+Creator: The Linux Foundation
+PackageName: lf-podcast
+PackageOriginator: The Linux Foundation
+PackageHomePage: https://github.com/linuxfoundation/lf-podcast
+PackageLicenseDeclared: Apache-2.0

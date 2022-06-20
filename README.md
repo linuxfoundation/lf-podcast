@@ -2,6 +2,8 @@
 
 <img src="docs/images/logo-400-400.png" width="230" height="230" />
 
+[![rss](https://github.com/aleen42/badges/blob/master/src/rss.svg?raw=true)](https://feeds.captivate.fm/untold-stories-of-open-source/)
+
 Open Source is embedded in every software application you touch today.
 
 It’s impossible to build a large scale application without it. The real question is, what’s the story behind that component, application, or framework you just downloaded? Not the specs. Not the functionality. The real story: “Who wrote the code? What is their backstory? What led them to the Open Source community?”
@@ -22,7 +24,7 @@ Listen to the latest episodes from The Linux Foundation ["The Untold Stories of 
 
 ## Listen in your Browser
 
-Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms. 
+Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms.
 
 ## What the project does
 

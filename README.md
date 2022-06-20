@@ -1,8 +1,8 @@
 # The Untold Stories of Open Source
 
-[![rss](https://github.com/aleen42/badges/blob/master/src/rss.svg?raw=true)](https://feeds.captivate.fm/untold-stories-of-open-source/)
-
 <img src="docs/images/logo-400-400.png" width="230" height="230" />
+
+[![rss](https://github.com/aleen42/badges/blob/master/src/rss.svg?raw=true)](https://feeds.captivate.fm/untold-stories-of-open-source/)
 
 Open Source is embedded in every software application you touch today.
 

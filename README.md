@@ -1,5 +1,7 @@
 # The Untold Stories of Open Source
 
+[![rss](https://github.com/aleen42/badges/blob/master/src/rss.svg?raw=true)](https://feeds.captivate.fm/untold-stories-of-open-source/)
+
 <img src="docs/images/logo-400-400.png" width="230" height="230" />
 
 Open Source is embedded in every software application you touch today.
@@ -22,7 +24,7 @@ Listen to the latest episodes from The Linux Foundation ["The Untold Stories of 
 
 ## Listen in your Browser
 
-Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms. 
+Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms.
 
 ## What the project does
 

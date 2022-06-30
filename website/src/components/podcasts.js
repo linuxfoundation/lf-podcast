@@ -2,6 +2,15 @@ import React from 'react';
 
 export const podcasts = [ 
     {
+        title : "Management and Diversity in the Open Source Community with Sara Chipps",
+        src : "https://open.spotify.com/embed/episode/5Z5FT3qzBrbTvAyHuhNq9G?utm_source=generator",
+        type : "spotify",
+        description : "As Sara Chipps delved deeper into the world of open source and moved up into senior engineering and management roles, there was a specific skill she learned about how to work with and manage engineers.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
+    {
         title : "A New Model for Technical Training, with Clyde Seepersad",
         src : "https://open.spotify.com/embed/episode/2HCRrlO0zW2xEcfnZ5i0fG?utm_source=generator",
         type : "spotify",

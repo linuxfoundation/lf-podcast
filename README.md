@@ -25,7 +25,11 @@ Listen to the latest episodes from The Linux Foundation ["The Untold Stories of 
 
 ## Listen in your Browser
 
+<<<<<<< HEAD
 Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite. It is also available on Spotify, Apple Podcasts, Amazon Podcast, and Google Podcast, and dozens of other podcast platforms.
+=======
+Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stories of Open Source](https://podcast.linuxfoundation.org/) microsite.
+>>>>>>> d83a7a2 (Update Repo and Microsite URLs (#11))
 
 ## What the project does
 

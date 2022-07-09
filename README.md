@@ -47,6 +47,6 @@ Questions and comments are welcome, especially suggestions for upcoming shows. A
 ## Who maintains and contributes to the project
 
 Mark Miller, VP, Community and Outreach<br />
-Executive Director, Linux Podcast
+Executive Producer, The Untold Stories of Open Source Podcast
 
 James McLeod, Director of Community, [FINOS](https://www.finos.org)

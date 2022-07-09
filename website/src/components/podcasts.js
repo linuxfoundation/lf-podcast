@@ -2,6 +2,15 @@ import React from 'react';
 
 export const podcasts = [ 
     {
+        title : "Building Your Open Source Strategy, with Nithya Ruff",
+        src : "https://open.spotify.com/embed/episode/47Ea6XOrwyFJ1dYZnzgR7G?utm_source=generator",
+        type : "spotify",
+        description : "A lot of the companies I've worked for were trying to transition from proprietary or very siloed products, very black box products to more standards based products. And that seems to be a common thread that I've gone through even in proprietary companies.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
+    {
         title : "Management and Diversity in the Open Source Community with Sara Chipps",
         src : "https://open.spotify.com/embed/episode/5Z5FT3qzBrbTvAyHuhNq9G?utm_source=generator",
         type : "spotify",

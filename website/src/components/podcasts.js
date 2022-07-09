@@ -60,7 +60,7 @@ export const podcasts = [
         src : "https://open.spotify.com/embed/episode/62DAkdeQTSAPeLbxF2sTlX?utm_source=generator",
         type : "spotify",
         description : "Open Source is embedded in every software application you touch today. It's impossible to build a large scale application without it. The real question is, what's the story behind that component, application, or framework you just downloaded? Not the specs. Not the functionality. The real story: 'Who wrote the code? What is their backstory? What led them to the Open Source community?'",
-        podcast : "FINOS Open Source in Finance Podcast",
+        podcast : "The Untold Stories of Open Source",
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     }  

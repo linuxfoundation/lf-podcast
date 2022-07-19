@@ -2,6 +2,15 @@ import React from 'react';
 
 export const podcasts = [ 
     {
+        title : "Games and Digital Media in Open Source, with Royal O'Brien",
+        src : "https://open.spotify.com/embed/episode/2q8dXeMQLeW8sTXHGn8upP?utm_source=generator",
+        type : "spotify",
+        description : "The Unreal gaming engine launched in 1998. It was a fun time. It was like, “Oh my God, we can build our own games and gaming maps!” But those earlier in the gaming cycle thought there was a better alternative already on the market.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
+    {
         title : "Building Your Open Source Strategy, with Nithya Ruff",
         src : "https://open.spotify.com/embed/episode/47Ea6XOrwyFJ1dYZnzgR7G?utm_source=generator",
         type : "spotify",

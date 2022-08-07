@@ -21,12 +21,13 @@ function Home() {
         </div>
       </header>
       <main>
-      {podcasts && podcasts.length && (
+      {console.log(podcasts)}
+      {podcasts && Object.keys(podcasts).length && (
           <section className={styles.podcasts}>
             <div className="container">
               <div className="row">
-                {podcasts.map((props, idx) => (
-                    <FeaturePodcast key={idx} {...props} />
+              {Object.keys(podcasts).map((key, idx) => (
+                    <FeaturePodcast key={idx} {...podcasts[key]} />
                 ))}
               </div>
             </div>

@@ -38,7 +38,7 @@ module.exports = {
       },
       items: [
         {to: 'docs/podcasts-intro', label: 'Introduction', position: 'right'},
-        {to: 'docs/podcasts/games-digital-media', label: 'Podcasts', position: 'right'},
+        {to: 'docs/podcasts/call-for-code-project', label: 'Podcasts', position: 'right'},
         {to: 'docs/templates/podcast-template', label: 'Add New Podcast', position: 'right'},
         {href: 'https://feeds.captivate.fm/untold-stories-of-open-source/', label: 'RSS', position: 'right'},        
         {href: 'https://github.com/linuxfoundation/lf-podcast', label: 'GitHub', position: 'right'}

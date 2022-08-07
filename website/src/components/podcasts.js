@@ -1,7 +1,16 @@
 import React from 'react';
 
-export const podcasts = [ 
-    {
+export const podcasts = { 
+    "daniel" : {
+        title : "The Call for Code Project, with Daniel Krook",
+        src : "https://open.spotify.com/embed/episode/05TyLnJ2OXYdq6hmk5vPbW?utm_source=generator",
+        type : "spotify",
+        description : "Technology influences every aspect of our life. It's hard to remember a time when analog was separate from the digital. How do we balance the pace of innovation with its social impact when everything is changing so quickly?",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
+    "royal" : {
         title : "Games and Digital Media in Open Source, with Royal O'Brien",
         src : "https://open.spotify.com/embed/episode/2q8dXeMQLeW8sTXHGn8upP?utm_source=generator",
         type : "spotify",
@@ -10,7 +19,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "nithya" : {
         title : "Building Your Open Source Strategy, with Nithya Ruff",
         src : "https://open.spotify.com/embed/episode/47Ea6XOrwyFJ1dYZnzgR7G?utm_source=generator",
         type : "spotify",
@@ -19,7 +28,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "sara" : {
         title : "Management and Diversity in the Open Source Community with Sara Chipps",
         src : "https://open.spotify.com/embed/episode/5Z5FT3qzBrbTvAyHuhNq9G?utm_source=generator",
         type : "spotify",
@@ -28,7 +37,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "clyde" : {
         title : "A New Model for Technical Training, with Clyde Seepersad",
         src : "https://open.spotify.com/embed/episode/2HCRrlO0zW2xEcfnZ5i0fG?utm_source=generator",
         type : "spotify",
@@ -37,7 +46,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "patrick" : {
         title : "The Business Side of Open Source, with Patrick Debois",
         src : "https://open.spotify.com/embed/episode/3MKsXkw9Et5B9bGLWKJNpc?utm_source=generator",
         type : "spotify",
@@ -46,7 +55,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "brian" : {
         title : "A Life in Open Source, with Brian Behlendorf",
         src : "https://open.spotify.com/embed/episode/0P0cjBDn5nSYPe1i0FrFXr?utm_source=generator",
         type : "spotify",
@@ -55,7 +64,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "priyanka" : {
         title : "Balancing Priorities at the CNCF, with Priyanka Sharma",
         src : "https://open.spotify.com/embed/episode/5KgqNXHHV0y03yjgg7kg8E?utm_source=generator",
         type : "spotify",
@@ -64,7 +73,7 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    {
+    "intro" : {
         title : "The Untold Stories of Open Source - An Introduction to the new Podcast from the Linux Foundation",
         src : "https://open.spotify.com/embed/episode/62DAkdeQTSAPeLbxF2sTlX?utm_source=generator",
         type : "spotify",
@@ -73,4 +82,4 @@ export const podcasts = [
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     }  
-];
+};

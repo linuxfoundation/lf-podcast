@@ -1,6 +1,15 @@
 import React from 'react';
 
 export const podcasts = { 
+    "arpit" : {
+        title : "LFNetworking and Edge Computing, with Arpit Joshipura",
+        src : "https://open.spotify.com/embed/episode/7ws4g9oV0Z6cksVC4OICvT?utm_source=generator",
+        type : "spotify",
+        description : "Ahmedabad is the largest city in the state of Gujarat (goo jer raht) in western India. It has a population of over eight million people. This is where Arpit Joshipura, GM of LFNetworking at the Linux Foundation, was born and raised.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
     "daniel" : {
         title : "The Call for Code Project, with Daniel Krook",
         src : "https://open.spotify.com/embed/episode/05TyLnJ2OXYdq6hmk5vPbW?utm_source=generator",

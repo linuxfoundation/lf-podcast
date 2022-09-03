@@ -21,7 +21,6 @@ function Home() {
         </div>
       </header>
       <main>
-      {console.log(podcasts)}
       {podcasts && Object.keys(podcasts).length && (
           <section className={styles.podcasts}>
             <div className="container">

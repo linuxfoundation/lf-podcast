@@ -1,6 +1,15 @@
 import React from 'react';
 
 export const podcasts = { 
+    "allan" : {
+        title : "Waiting for the SBOM to Drop, with Allan Friedman",
+        src : "https://open.spotify.com/embed/episode/02PpSGGsuD9kTbVQStquM9?utm_source=generator",
+        type : "spotify",
+        description : "Allan Friedman was one of the first, if not THE first person to talk with me about the need for a mandatory software bill of materials to be attached to all software back in 2017 when he was Director of Cybersecurity Initiatives for the US Department of National Telecommunications and Information Administration (NTIA).",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
     "arpit" : {
         title : "LFNetworking and Edge Computing, with Arpit Joshipura",
         src : "https://open.spotify.com/embed/episode/7ws4g9oV0Z6cksVC4OICvT?utm_source=generator",

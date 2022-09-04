@@ -16,6 +16,8 @@ Listen to [A New Model for Technical Training, with Clyde Seepersad](docs/podcas
 
 ## Clyde Seepersad Spotlight
 
+[A New Model for Technical Training, with Clyde Seepersad](docs/podcasts/new-model-training.mdx)
+
 https://user-images.githubusercontent.com/66965127/185688210-e702a3d0-6f6f-4afb-a647-b4c8ada728f6.mp4
 
 ## Podcast Episodes

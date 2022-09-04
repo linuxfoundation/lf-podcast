@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "is-promise": "2.1.0",
-    "react-player": "^2.10.0"
+    "react-player": "^2.10.1"
   }
 }

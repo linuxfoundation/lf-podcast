@@ -14,7 +14,7 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 Listen to [A New Model for Technical Training, with Clyde Seepersad](docs/podcasts/new-model-training.mdx) and the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://untold-stories-of-open-source.captivate.fm/spotify) podcast below.
 
-## Clyde Seepersad Spotlight
+## Clyde Seepersad Episode Spotlight
 
 https://user-images.githubusercontent.com/66965127/185688210-e702a3d0-6f6f-4afb-a647-b4c8ada728f6.mp4
 

@@ -12,7 +12,7 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 # Linux Foundation Community Podcasts
 
-Listen to [Waiting for the SBOM to Drop, with Allan Friedman](docs/podcasts/waiting-for-sbom.mdx) and the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://untold-stories-of-open-source.captivate.fm/spotify) podcast below.
+Listen to [Waiting for the SBOM to Drop, with Allan Friedman](docs/podcasts/waiting-for-sbom.mdx) and the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://podcast.linuxfoundation.org) podcast below.
 
 ## Clyde Seepersad Spotlight
 

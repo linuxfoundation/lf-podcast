@@ -18,7 +18,7 @@ Listen to [A New Model for Technical Training, with Clyde Seepersad](docs/podcas
 
 https://user-images.githubusercontent.com/66965127/185688210-e702a3d0-6f6f-4afb-a647-b4c8ada728f6.mp4
 
-## Open Source Episodes
+## Podcast Episodes
 
 | Episode                                                                                                                                          |                                                                Play Podcast                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------------------------------------: |

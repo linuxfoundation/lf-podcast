@@ -14,11 +14,11 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 Listen to [Waiting for the SBOM to Drop, with Allan Friedman](docs/podcasts/waiting-for-sbom.mdx) and the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://podcast.linuxfoundation.org) podcast below.
 
-## Clyde Seepersad Spotlight
+## Gabriele Columbro Spotlight
 
-[A New Model for Technical Training, with Clyde Seepersad](docs/podcasts/new-model-training.mdx)
+[Is the finance industry using open source? Yes. Yes it is!, with Gabriele Columbro](docs/podcasts/finance-industry.mdx)
 
-https://user-images.githubusercontent.com/66965127/185688210-e702a3d0-6f6f-4afb-a647-b4c8ada728f6.mp4
+https://user-images.githubusercontent.com/66965127/189157525-c0500769-2f4a-479a-9c45-6cad9724f772.mp4
 
 ## Podcast Episodes
 

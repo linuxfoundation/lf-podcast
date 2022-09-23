@@ -38,7 +38,7 @@ module.exports = {
       },
       items: [
         {to: 'docs/', label: 'Introduction', position: 'right'},
-        {to: 'docs/podcasts/waiting-for-sbom', label: 'Podcasts', position: 'right'},
+        {to: 'docs/podcasts/finance-industry', label: 'Podcasts', position: 'right'},
         {to: 'docs/templates', label: 'Add New Podcast', position: 'right'},
         {href: 'https://feeds.captivate.fm/untold-stories-of-open-source/', label: 'RSS', position: 'right'},        
         {href: 'https://github.com/linuxfoundation/lf-podcast', label: 'GitHub', position: 'right'}
@@ -118,4 +118,4 @@ module.exports = {
       }
     ]
   ]
-};   
+};    

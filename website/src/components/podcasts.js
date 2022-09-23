@@ -1,6 +1,24 @@
 import React from 'react';
 
 export const podcasts = { 
+    "gab" : {
+        title : "Is the finance industry using open source? Yes. Yes it is!, with Gabriele Columbro",
+        src : "https://open.spotify.com/embed/episode/5dN7v4YkpNJbXjVlOh2VNh?utm_source=generator",
+        type : "spotify",
+        description : "With major software vulnerabilities popping up on what seems like a weekly basis and government regulation imminent when it comes to providing a software bill of materials for any application sold to the United States government, collaboration on open source security is no longer optional.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
+    "ana" : {
+        title : "Become a Hybrid in the Open Source Community, with Ana Jiménez",
+        src : "https://open.spotify.com/embed/episode/74DIeDdIDwgn6HicgyTlMy?utm_source=generator",
+        type : "spotify",
+        description : "I usually say that I'm a hybrid, Ana Jiménez says. In this context what does that even mean, what is a hybrid? According to the Oxford Language Dictionary, a hybrid is 'a word formed from elements taken from different languages, for example television ( tele- from Greek, vision from Latin).' If we use that as our definition, Ana Jiménez Santamaria has a good reason to call herself a hybrid; she can speak the language of the business world as well as that of the developer domain.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
     "allan" : {
         title : "Waiting for the SBOM to Drop, with Allan Friedman",
         src : "https://open.spotify.com/embed/episode/02PpSGGsuD9kTbVQStquM9?utm_source=generator",

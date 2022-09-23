@@ -1,6 +1,15 @@
 import React from 'react';
 
 export const podcasts = { 
+    "gab" : {
+        title : "Is the finance industry using open source? Yes. Yes it is!, with Gabriele Columbro",
+        src : "https://open.spotify.com/embed/episode/5dN7v4YkpNJbXjVlOh2VNh?utm_source=generator",
+        type : "spotify",
+        description : "With major software vulnerabilities popping up on what seems like a weekly basis and government regulation imminent when it comes to providing a software bill of materials for any application sold to the United States government, collaboration on open source security is no longer optional.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
     "ana" : {
         title : "Become a Hybrid in the Open Source Community, with Ana Jiménez",
         src : "https://open.spotify.com/embed/episode/74DIeDdIDwgn6HicgyTlMy?utm_source=generator",

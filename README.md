@@ -48,7 +48,7 @@ The Linux Foundation Podcast Project is a public podcast. Each week, the podcast
 
 ## Why the project is useful
 
-The podcast is used to inform the Linux and Open Source communities as to the current state in development of open source initiatives and Linux Foundation Projects. It is vendor neutral, with no interviews of commercial product vendors or sales teams.
+The podcast provides the Linux and Open Source communities with updates on the current development of open-source initiatives and Linux Foundation Projects. It is vendor neutral, with no interviews of commercial product vendors or sales teams.
 
 ## How users can get started with the project
 

@@ -1,20 +1,22 @@
 {
-  "scripts": {
-    "start": "docusaurus start",
-    "swizzle": "docusaurus swizzle",
-    "build": "docusaurus build",
-    "publish-gh-pages": "docusaurus deploy"
-  },
+ "scripts": {
+  "start": "NODE_OPTIONS=--openssl-legacy-provider docusaurus start",
+  "swizzle": "docusaurus swizzle",
+  "build": "NODE_OPTIONS=--openssl-legacy-provider docusaurus build",
+  "publish-gh-pages": "docusaurus deploy"
+},
   "devDependencies": {
     "@docusaurus/core": "^2.1.0",
     "@docusaurus/preset-classic": "^2.1.0",
     "classnames": "^2.2.6",
+    "cross-env": "^7.0.3",
     "eslint": "^7.25.0",
     "eslint-plugin-react": "^7.23.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
   "dependencies": {
+    "16": "^0.0.2",
     "is-promise": "2.1.0",
     "react-player": "^2.10.1"
   }

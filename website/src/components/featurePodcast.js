@@ -7,33 +7,26 @@ import SpotifyCompact from '../components/spotifyCompact';
 import VideoPlayer from '../components/videoPlayer';
 
 export default function FeaturePodcast(props) {
-
-    var defined = function(property){
+    var defined = function(property) {
         return typeof property !== 'undefined';
     };
 
-    if(!props.featured){
-        return;
+    if (!props.featured) {
+        return null;
     }
 
     return (
         <div className={classnames('text--center col col--4 padding')}>
             <h3>{props.title}</h3>
-            {props.type === "soundcloud" &&
-                <Soundcloud scsrc={props.src} />
-            }
-            {props.type === "spotify" &&
-                <SpotifyCompact scsrc={props.src} />
-            } 
-            {props.type === "video" &&
-                <VideoPlayer scsrc={props.src} />
-            } 
-            {defined(props.podcastUrl) && props.podcastUrl !== '' &&
+            {props.type === "soundcloud" && <Soundcloud scsrc={props.src} />}
+            {props.type === "spotify" && <SpotifyCompact scsrc={props.src} />}
+            {props.type === "video" && <VideoPlayer scsrc={props.src} />}
+            {props.type !== "video" && defined(props.podcastUrl) && props.podcastUrl !== '' && (
                 <a href={props.podcastUrl}>{props.podcast}</a>
-            }
-            {defined(props.description) && props.description !== '' &&
+            )}
+            {defined(props.description) && props.description !== '' && (
                 <p>{props.description}</p>
-            }
+            )}
         </div>
     );
 };

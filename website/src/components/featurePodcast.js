@@ -27,9 +27,9 @@ export default function FeaturePodcast(props) {
             } 
             {props.type === "video" &&
                 <VideoPlayer scsrc={props.src} />
-            } 
-            {defined(props.podcastUrl) && props.podcastUrl !== '' &&
-                <a href={props.podcastUrl}>{props.podcast}</a>
+            }
+            {props.type !== "video" && defined(props.podcastUrl) && props.podcastUrl !== '' &&
+            <a href={props.podcastUrl}>{props.podcast}</a>
             }
             {defined(props.description) && props.description !== '' &&
                 <p>{props.description}</p>

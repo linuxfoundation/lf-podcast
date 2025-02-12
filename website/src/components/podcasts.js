@@ -10,15 +10,6 @@ export const podcasts = {
         podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
         featured : true
     },
-    "soumith" : {
-        title : "The Story Behind PyTorch and the Community Who Maintains It, with Soumith Chintala",
-        src : "https://open.spotify.com/embed/episode/7dIyfimv1RnWsngy2SNl7e?utm_source=generator",
-        type : "spotify",
-        description : "There’s no need to bury the lead here. Soumith Chintala is the central figure in a major transition in the world of Artificial Intelligence and Machine Learning. He works at Meta where he’s the manager of PyTorch, an open source machine learning framework that was recently transferred to the Linux Foundation. PyTorch enables ML engineers to deploy new AI models in minutes rather than weeks.",
-        podcast : "The Untold Stories of Open Source",
-        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
-        featured : true
-    },
     "ana" : {
         title : "Become a Hybrid in the Open Source Community, with Ana Jiménez",
         src : "https://open.spotify.com/embed/episode/74DIeDdIDwgn6HicgyTlMy?utm_source=generator",

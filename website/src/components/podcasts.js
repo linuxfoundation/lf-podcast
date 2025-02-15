@@ -1,6 +1,15 @@
 import React from 'react';
 
 export const podcasts = { 
+    "soumith" : {
+        title : "The Story Behind PyTorch and the Community Who Maintains It, with Soumith Chintala",
+        src : "https://open.spotify.com/embed/episode/7dIyfimv1RnWsngy2SNl7e?utm_source=generator",
+        type : "spotify",
+        description : "There’s no need to bury the lead here. Soumith Chintala is the central figure in a major transition in the world of Artificial Intelligence and Machine Learning. He works at Meta where he’s the manager of PyTorch, an open source machine learning framework that was recently transferred to the Linux Foundation. PyTorch enables ML engineers to deploy new AI models in minutes rather than weeks.",
+        podcast : "The Untold Stories of Open Source",
+        podcastUrl : "https://untold-stories-of-open-source.captivate.fm/spotify",
+        featured : true
+    },
     "gab" : {
         title : "Is the finance industry using open source? Yes. Yes it is!, with Gabriele Columbro",
         src : "https://open.spotify.com/embed/episode/5dN7v4YkpNJbXjVlOh2VNh?utm_source=generator",

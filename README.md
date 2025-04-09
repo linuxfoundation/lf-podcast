@@ -18,7 +18,8 @@ Listen to [Waiting for the SBOM to Drop, with Allan Friedman](docs/podcasts/wait
 
 [Is the finance industry using open source? Yes. Yes it is!, with Gabriele Columbro](docs/podcasts/finance-industry.mdx)
 
-https://user-images.githubusercontent.com/66965127/189157525-c0500769-2f4a-479a-9c45-6cad9724f772.mp4
+<video width="100%" controls>
+<source src="https://user-images.githubusercontent.com/66965127/189157525-c0806709-2f4a-479a-9645-cad9724f7772.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 
 ## Podcast Episodes
 

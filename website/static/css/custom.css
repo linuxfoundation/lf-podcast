@@ -176,7 +176,8 @@ body {
   font-size: 16px;
 }
 
-article p img,FeatureCallout
+article p img,
+.FeatureCallout
 article iframe {
   display: block;
   margin-left: auto;
